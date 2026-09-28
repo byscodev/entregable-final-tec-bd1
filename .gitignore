@@ -1,0 +1,6 @@
+# Ignorar backup SQL (muy grande, 135 MB)
+pdb_employees_*.sql
+
+# Ignorar archivos temporales
+*.log
+*.tmp
